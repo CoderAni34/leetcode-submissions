@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderAni34/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/CoderAni34/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CoderAni34/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/CoderAni34/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
