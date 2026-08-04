@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CoderAni34/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/CoderAni34/leetcode-submissions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CoderAni34/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/CoderAni34/leetcode-submissions/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
