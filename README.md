@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CoderAni34/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CoderAni34/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/CoderAni34/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderAni34/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/CoderAni34/leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CoderAni34/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/CoderAni34/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/CoderAni34/leetcode-submissions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/CoderAni34/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/CoderAni34/leetcode-submissions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/CoderAni34/leetcode-submissions/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/CoderAni34/leetcode-submissions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
