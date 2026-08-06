@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CoderAni34/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/CoderAni34/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/CoderAni34/leetcode-submissions/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CoderAni34/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/CoderAni34/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CoderAni34/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CoderAni34/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/CoderAni34/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/CoderAni34/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CoderAni34/leetcode-submissions/tree/master/0242-valid-anagram) |
