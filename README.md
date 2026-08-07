@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CoderAni34/leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderAni34/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CoderAni34/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/CoderAni34/leetcode-submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CoderAni34/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CoderAni34/leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CoderAni34/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CoderAni34/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/CoderAni34/leetcode-submissions/tree/master/0143-reorder-list) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CoderAni34/leetcode-submissions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/CoderAni34/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/CoderAni34/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CoderAni34/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Linked List
